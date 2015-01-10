@@ -1,3 +1,23 @@
+
 body {
-    background: rgba (255,255,255,1);
+    text-align: center;
+    background: #8c0c26;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    font-family: helvetica;
+}
+p {
+    font-size: 18px;
+}
+img {
+    border-radius: 40px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #FFFFFF;
+    padding: 0px;
+}
+button{
+    padding:10px;
+    margin: 20px 10px;
 }
