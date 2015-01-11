@@ -26,6 +26,33 @@ button{
     border-color: #FFFFFF;
     background-color: #FFFFFF;
 }
-button.type2{
-    background-color:
+ul {
+    margin: auto;
+    padding: 0;
+    list-style: none;
+    width: 70%;
+    border-bottom:1px solid #ccc;
 }
+ul li{
+    position: relative;
+}
+ul li a{
+    display: block;
+    text-decoration:none;
+    color: #777;
+    background:#fff;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-bottom: 0;
+    border-radius: 5px
+}
+li ul{
+    position: relative ;
+    width:85%;
+    left: 0;
+    top: 100;
+    display: none;
+}
+
+li:hover ul, li.over ul {
+ display: block; }
