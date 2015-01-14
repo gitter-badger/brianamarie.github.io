@@ -18,4 +18,7 @@ this.className+=" over";
 }
 window.onload=startList;
 
+if(0=0){console.log("Life's good")} else {console.log("We're in deep shit.")}
+
 };
+

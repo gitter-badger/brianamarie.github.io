@@ -41,7 +41,7 @@ ul {
     padding: 0;
     list-style: none;
     width: 70%;
-    border-bottom:1px solid #ccc;
+    border-bottom:2px solid #ccc;
 }
 ul li{
     position: relative;
