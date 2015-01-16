@@ -64,6 +64,12 @@ li ul{
     display: none;
 }
 
+.nest{
+    font-size:14px;
+    color:#8c0c26;
+;
+}
+
 li:hover ul, li.over ul {
  display: block; }
 
