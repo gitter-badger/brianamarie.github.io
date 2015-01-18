@@ -18,6 +18,7 @@ h2{
     color: #black;
     width: 50%;
     font-size: 18px;
+    display: block;
 }
 p {
     font-size: 18px;
