@@ -1,11 +1,23 @@
-
+.head{
+    width: 100%;
+    background: #284d1f;
+    min-height: 50px;
+}
 body {
     text-align: center;
-    background: #8c0c26;
+    background: #D1CA9F;
     background-size: cover;
     background-position: center;
-    color: white;
+    color: black;
     font-family: 'Lato', sans-serif;
+}
+h1{
+}
+h2{
+    font-family: 'Dancing Script';
+    color: #black;
+    width: 50%;
+    font-size: 18px;
 }
 p {
     font-size: 18px;
@@ -66,7 +78,7 @@ li ul{
 
 .nest{
     font-size:14px;
-    color:#8c0c26;
+    color:#284d1f;
 ;
 }
 
