@@ -10,16 +10,18 @@ body {
     background-position: center;
     color: black;
     font-family: 'Lato', sans-serif;
+
 }
 h1{
     font-family: 'Alegreya Sans SC', sans-serif;
 }
 h2{
     font-family: 'Dancing Script';
-    color: #black;
-    width: 50%;
+    color: black;
+    width: 60%;
     font-size: 18px;
-    display: block;
+    padding: 10px;
+    margin: 0 auto;
 }
 p {
     font-size: 18px;
