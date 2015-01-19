@@ -2,6 +2,7 @@
     width: 100%;
     background: #284d1f;
     min-height: 50px;
+    padding: 3px;
 }
 body {
     text-align: center;
@@ -18,10 +19,11 @@ h1{
 h2{
     font-family: 'Dancing Script';
     color: black;
-    width: 60%;
     font-size: 18px;
     padding: 10px;
+    width: 60%;
     margin: 0 auto;
+
 }
 p {
     font-size: 18px;
