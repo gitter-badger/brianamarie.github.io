@@ -46,14 +46,11 @@ button{
     background-color: #FFFFFF;
 }
 ul {
-    object-align: right;
-    padding: 0;
+    text-align:right;
     list-style: none;
-    width: 70%;
-    border-bottom:2px solid #ccc;
-}
-ul li{
-    position: relative;
+    width: 40%;
+    float:right;
+    solid #ccc;
 }
 ul li a{
     display: block;
@@ -67,8 +64,8 @@ ul li a{
 }
 li ul{
     position: relative ;
-    width:85%;
-    left: 0;
+    width:100%;
+    right: auto;
     top: 100;
     display: none;
 }
