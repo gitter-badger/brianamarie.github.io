@@ -28,7 +28,9 @@ h2{
 }
 p {
     font-size: 18px;
-
+    text-align: justify;
+    margin: 10px;
+    padding: 10px;
 }
 #aboutme {
     width: 100%;
@@ -40,12 +42,13 @@ p {
     font-weight: 100px;
 }
 img {
-    border-radius: 20px;
+    border-radius: 30px;
     border-style: solid;
     border-width: 2px;
     border-color: #FFFFFF;
-    padding: 0px;
     width: 40%;
+    float: left;
+
 }
 input{
     padding:10px;
@@ -58,41 +61,3 @@ input{
     border-color: #FFFFFF;
     background-color: #FFFFFF;
 }
-ul {
-    margin: auto;
-    padding: 0;
-    list-style: none;
-    width: 70%;
-    border-bottom:2px solid #ccc;
-}
-ul li{
-    position: relative;
-}
-ul li a{
-    display: block;
-    text-decoration:none;
-    color: #3d3d3d;
-    background:#fff;
-    padding: 5px;
-    border: 1px solid #ccc;
-    border-bottom: 0;
-    border-radius: 5px
-}
-li ul{
-    position: relative ;
-    width:85%;
-    left: 0;
-    top: 100;
-    display: none;
-}
-
-.nest{
-    font-size:14px;
-    color:#284d1f;
-;
-}
-
-li:hover ul, li.over ul {
- display: block; }
-
-
