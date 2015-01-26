@@ -9,6 +9,12 @@ body {
 h1{
     text-align: center;
 }
+.social{
+    width: 2%;
+    padding: 1px;
+    margin: 0 auto;
+
+}
 .twitter-timeline{
     position: absolute;
     padding: 20px;
